@@ -44,9 +44,9 @@ class ContinuesLocationManager: NSObject, CLLocationManagerDelegate {
         guard !isTrackUser else { return }
         isTrackUser = true
 
-        locationManager.distanceFilter = kCLDistanceFilterNone
-        locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
-        locationManager.startUpdatingLocation()
+//        locationManager.distanceFilter = kCLDistanceFilterNone
+//        locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
+//        locationManager.startUpdatingLocation()
         createRegion(lat: lat, long: long)
     }
 

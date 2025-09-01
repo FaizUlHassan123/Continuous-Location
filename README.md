@@ -137,12 +137,6 @@ let overlayRadius = 500  // Visual circle radius
 - **Purpose**: Check-in/check-out notifications
 - **Timing**: 2-second delay after region events
 
-## 🐛 Known Issues & Limitations
-
-1. **Battery Usage**: Continuous location tracking may impact battery life
-
-
-
 ## 📝 Notes
 
 - **UserDefaults Storage**: App stores tracking parameters for persistence

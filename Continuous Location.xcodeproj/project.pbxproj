@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		5E1ED5272D85B8DA008EF11B /* Continuous Location.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Continuous Location.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EFA4A832E65AE1400C20720 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +46,7 @@
 		5E1ED51E2D85B8DA008EF11B = {
 			isa = PBXGroup;
 			children = (
+				5EFA4A832E65AE1400C20720 /* README.md */,
 				5E1ED5292D85B8DA008EF11B /* Continuous Location */,
 				5E1ED5282D85B8DA008EF11B /* Products */,
 			);
