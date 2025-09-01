@@ -1,0 +1,59 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# CocoaPods
+#
+Pods/
+
+# Code Coverage
+#
+*.gcno
+*.profdata
+
+# Archives
+#
+*.xcarchive
+
+# macOS
+#
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# IDEs
+#
+.idea/
+.vscode/
+
+# Other
+#
+*.swp
+*.lock
